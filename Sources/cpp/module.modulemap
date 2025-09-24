@@ -1,0 +1,5 @@
+module cpp {
+  header "hello.h"
+  header "vec.h"
+  requires cplusplus
+}
